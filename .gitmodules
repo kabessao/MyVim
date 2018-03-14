@@ -1,0 +1,9 @@
+[submodule "vim80/bundle/vim-easymotion"]
+	path = vim80/bundle/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "vim80/bundle/nerdtree"]
+	path = vim80/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim80/startup"]
+	path = vim80/startup
+	url = https://github.com/kabessao/startup.git
